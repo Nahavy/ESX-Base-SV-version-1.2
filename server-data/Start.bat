@@ -1,0 +1,2 @@
+cd /d C:\Users\nombre de usuario \lugar donde esta ubicada la carpeta del servidor\nombre de la carpeta del servidor\server-data
+C:\Users\nombre de usuario \lugar donde esta ubicada la carpeta del servidor\nombre de la carpeta del servidor\FXServer.exe +exec server.cfg
