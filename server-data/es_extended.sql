@@ -151,7 +151,7 @@ INSERT INTO `datastore` (`name`, `label`, `shared`) VALUES
 ('user_helmet', 'Casco', 0),
 ('user_mask', 'Máscara', 0);
 
--- --------------------------------------------------------
+-- ---------------------------------------------------------
 
 --
 -- Estructura de tabla para la tabla `datastore_data`
